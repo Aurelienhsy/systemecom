@@ -1,2 +1,2 @@
 # systemecom
-Système de commentaires en PHP
+Système de commentaires (basique) en PHP
